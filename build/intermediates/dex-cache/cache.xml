@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_fe3588f1b0c909cf163b5817f5349678235b6c32.jar" />
+    </item>
+    <item
+        jar="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2455437f3701f9389b1b6bb36e1db84934b9aee4">
+        <dex dex="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_73fa38e9d836a9935ea445263d8428156a1e185b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ac90d19ff43b5b228a430490ea9b839a637b0123">
+        <dex dex="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\pre-dexed\debug\instant-run_e832631fbc0de2cec3f9bdd0b05d972e91ee03bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_f28bbd36c71222a5de8ee451b3b713c358f20359.jar" />
+    </item>
+    <item
+        jar="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_9da3ba801db829c762c7f8dfec9bbaed7907ee66.jar" />
+    </item>
+    <item
+        jar="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_1c48253550ae3d368c03fe6fe1bbac382b2e338b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Junior\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_d7e386f6ee74f4e583e0716a1114c30ecf2bb500.jar" />
+    </item>
+    <item
+        jar="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Junior\Dropbox\App Android\LayoutsEnAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_4a5e1fc9cb6a614aab81d836de10e97fce54f324.jar" />
+    </item>
+
+</items>
